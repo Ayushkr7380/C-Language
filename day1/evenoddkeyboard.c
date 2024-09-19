@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 int main() {
-    int a = 4;
+    int a;
+    printf("Enter a number ");
+    scanf("%d", &a); 
     if (a%2 == 0)
     {
         printf("%d is even number.",a);
