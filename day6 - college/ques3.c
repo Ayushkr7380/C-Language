@@ -7,15 +7,15 @@ int main(){
     n2 = 5;
     //Add
     result = n1 + n2;
-    printf("\nSum is %d",result);
+    printf("\nSum of %d & %d = %d",n1,n2,result);
     //Product
     result = n1 * n2;
-    printf("\nProduct is %d",result);
+    printf("\nProduct of %d & %d = %d",n1,n2,result);
     //Difference
     result = n1 - n2;
-    printf("\nDifference is %d",result);
+    printf("\nDifference of %d & %d = %d",n1,n2,result);
     //Quotient
     result = n1 / n2;
-    printf("\nQuotient is %d",result);
+    printf("\nQuotient of %d & %d = %d",n1,n2,result);
     return 0;
 }
