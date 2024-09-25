@@ -19,3 +19,14 @@ int main(){
     printf("\nQuotient of %d & %d = %d",n1,n2,result);
     return 0;
 }
+
+
+//Operators--
+//1. Assignment (+= , -= , *= , /= , %= , = )
+//2. Bitwise ( & , | , ! , >> , << , ~ , ^)
+//3. Arthimetic ( + , - , * , / , % )
+//4. Relational  ( > , < , >= , <= , == , !=)
+//5. Unary ( ++ , -- )
+//6. Logical ( && , || )
+//7. Ternary/Conditional  ( ? : )
+//8. Misc ( sizeof() )
