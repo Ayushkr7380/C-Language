@@ -1,0 +1,3 @@
+1.Write a c program to find the greatest number among the three user input numbers.
+2.Create a c program using switch to perform basic calculator operations on two user inputs numbers with operation (+ , - , * , / ) depending upon user choice.
+3.Write a c program using switch to convert the grade (A,B,C,D,F) into it's respective discription.A for excellent, B for good, C for average , D for below average , F for fail
