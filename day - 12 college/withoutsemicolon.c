@@ -1,11 +1,8 @@
-#include<stdio.h>
-int main(){
-    if (1)
-    {
-        return "%d"
-    }
-    
+#include <stdio.h>
 
-    
+int main() {
+    if (printf("Hello, World!")) {
+        // no semicolon needed here
+    }
     return 0;
 }
