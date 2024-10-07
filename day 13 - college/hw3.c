@@ -3,7 +3,6 @@
 #include<stdio.h>
 int main(){
     char grade;
-    
     printf("Enter any grade between A, B, C, D, and F: ");
     scanf("%c", &grade);
 
