@@ -1,3 +1,4 @@
+//WACP to calculate the sum of two numbers without using arithematic operator.
 #include<stdio.h>
 int main(){
     int a = 1 , b = 12 , sum  , i = 0;
