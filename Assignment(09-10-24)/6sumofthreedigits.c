@@ -3,7 +3,7 @@ int main(){
     int num; //Declare variable num to store three digit number.
     int rem; //Declare varaible rem to store the reminder.
     int quot; //Declare variable quot to store quotient.
-    int sum;
+    int sum; //Declare varaible sum of store sum of digit of three digit number.
 
     printf("Enter any 3 digit numeber : "); //Prompt the user to enter any 3 digit number.
     scanf("%d",&num); //read and store the user's input value in num.
