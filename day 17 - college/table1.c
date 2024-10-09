@@ -1,3 +1,4 @@
+//WACP to print table via user input
 #include<stdio.h>
 int main(){
     int n;
