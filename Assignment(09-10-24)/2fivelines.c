@@ -1,5 +1,7 @@
 #include<stdio.h>
 int main(){
+
+    //printing 5 lines about myself
     printf("I am Ayush kumar.\n");
     printf("I have pursued BCA from LNMCBM.\n");
     printf("Currently I am purshuing MCA from GNIOT.\n");
