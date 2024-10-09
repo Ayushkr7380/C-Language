@@ -15,8 +15,7 @@ int main(){
     printf("\n");
     printf("Pattern 2\n");
     
-    for(int i=1;i<=20;i++){
-        printf("%d \n",i);
+    for(int i=1;i<=20;i++){        printf("%d \n",i);
     }
     
     //Print 20 to 1
