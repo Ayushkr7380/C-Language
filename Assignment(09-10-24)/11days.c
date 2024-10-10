@@ -20,7 +20,7 @@ int main(){
             break;
         case 7:printf("Saturday."); //print saturday in terminal when user input number is 7.
             break;
-        default:printf("Enter Number between 1 to 7 only.");
+        default:printf("Enter Number between 1 to 7 only."); // default body will be executed when the user input number is not between 1 to 7.
     }
     return 0; //return 0 tells the successfull execution of the program.
 }
