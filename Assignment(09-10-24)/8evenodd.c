@@ -1,3 +1,4 @@
+//8. WACP using 'if-else' to check if a user-input value is even or odd.
 #include<stdio.h>
 int main(){
     int num; //Declare varaible num to store value.

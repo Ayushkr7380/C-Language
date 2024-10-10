@@ -1,3 +1,4 @@
+//9. WACP to check the divisibility of a user-input number by 5 and 10 if even, or by 3 and 7 if odd.
 #include<stdio.h>
 int main(){
     int num; //declare variable num to store user's input number.

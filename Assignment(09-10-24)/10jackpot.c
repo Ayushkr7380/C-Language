@@ -1,3 +1,4 @@
+//10. There are three numbers: 15, 25, and 30. WACP to check if a user-input number is divisible by all three, printing 'JACKPOT' if true.
 #include<stdio.h>
 int main(){
     int num; //declare variable num to store user's input number.

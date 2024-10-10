@@ -1,3 +1,5 @@
+//6. WACP to calculate the sum of the digits of a 3-digit number.
+
 #include<stdio.h>
 int main(){
     int num; //Declare variable num to store three digit number.

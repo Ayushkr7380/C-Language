@@ -1,3 +1,4 @@
+//5.WACP to take user input of two variables, swap them, and print before and after swapping.
 #include<stdio.h>
 int main(){
     int num1,num2; //declare two varaible num1 and num2.

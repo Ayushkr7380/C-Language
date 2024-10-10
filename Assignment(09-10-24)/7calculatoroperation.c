@@ -1,3 +1,5 @@
+//7.WACP to declare three integer variables and perform sum, product, difference, and quotient operations on two of them, storing the results in the third variable.
+
 #include<stdio.h>
 int main(){
     int num1 = 10 , num2 = 2; //Declare and Initialize value in num1 and num2 varaible.
