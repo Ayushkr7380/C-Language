@@ -1,3 +1,4 @@
+//11. WACP to take a user-input integer between 1 to 7 and print the corresponding day of the week.
 #include<stdio.h>
 int main(){
     int num; //declare varaible num to store user's input value.

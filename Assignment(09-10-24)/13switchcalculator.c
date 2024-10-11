@@ -1,3 +1,4 @@
+//13.WACP using switch-case to perform basic calculator operations (addition, subtraction, multiplication, division) based on user input.
 #include<stdio.h>
 int main(){
     int num1 , num2; //declare varaible num1 and num2 to store user's input value.

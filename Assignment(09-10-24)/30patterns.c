@@ -1,3 +1,4 @@
+//31.Print the following pattern.
 #include<stdio.h>
 int main(){
     //Pattern 1

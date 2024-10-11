@@ -1,3 +1,4 @@
+//16. WACP to print the prompt message "Good Morning all. This is about Myself" followed by 5 points about yourself.
 #include<stdio.h>
 int main(){
     printf("Good Morning All.\n"); //Prompt Good Morning All message in terminal.

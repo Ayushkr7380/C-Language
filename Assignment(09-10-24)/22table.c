@@ -1,3 +1,4 @@
+//22. WACP to print the multiplication table of a user-input number.
 #include<stdio.h>
 int main(){
     int num1; //declare varaible num1 to store user's input value.

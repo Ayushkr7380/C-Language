@@ -1,3 +1,4 @@
+//24. WACP to take the user input of name, age, and marks of three subjects, printing the student details and overall percentage.
 #include<stdio.h>
 int main(){
     char name[30]; //Declare a string varaible to store the name.

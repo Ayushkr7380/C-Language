@@ -1,3 +1,4 @@
+//31. Print the following pattern by using only printf() function.
 #include<stdio.h>
 int main(){
     //Pattern 1

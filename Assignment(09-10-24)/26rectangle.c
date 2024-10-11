@@ -1,3 +1,4 @@
+//26. WACP to display the perimeter and area of a rectangle with dimensions 20x10.
 #include<stdio.h>
 int main(){
     int length = 20 , breadth = 10; //declare integer varaible length and breadth and initialize value in them.

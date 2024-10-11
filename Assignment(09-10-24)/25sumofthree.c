@@ -1,3 +1,4 @@
+//25. WACP to find and print the sum of three numbers (a=25, b=25, c=35) and display the result.
 #include<stdio.h>
 int main(){
     int a = 25 , b = 25 , c = 35; //declare integer varaibles and initialize values in them.

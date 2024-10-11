@@ -1,3 +1,4 @@
+//19. WACP to take user input of length and breadth of a rectangle and print its perimeter and area with a prompt message.
 #include<stdio.h>
 int main(){
     float length , breadth , area , preimeter ; //decalare varaible length to store rectangle's length , breadth to store rectangle's breadth , area to store rectangle's area and preimeter to store rectangle's preimeter.

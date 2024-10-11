@@ -1,3 +1,9 @@
+//14. WACP using switch-case to convert a grade (A, B, C, D, F) into a description:
+//A: Excellent
+//B: Very good
+//C: Average
+//D: Below Average
+//F: Fail
 #include<stdio.h>
 int main(){
     char grade; //declare varaible grade to store user's input value.

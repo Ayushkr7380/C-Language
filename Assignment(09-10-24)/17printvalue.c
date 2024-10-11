@@ -1,3 +1,4 @@
+//17. WACP to declare an integer variable and print its value.
 #include<stdio.h>
 int main(){
     int num1; //declare varaible num1 to store user's input value.

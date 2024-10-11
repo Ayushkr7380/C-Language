@@ -1,3 +1,4 @@
+//29. WACP using switch-case to display the name of the day of the week corresponding to a user-input number (1-7).
 #include<stdio.h>
 int main(){
     int num; //declare varaible num to store user's input value.

@@ -1,3 +1,9 @@
+//23. WACP to assign grades based on the following ranges:
+//0-40%: D
+//41-60%: C
+//61-80%: B
+//81-100%: A
+//Above 100%: Wrong input
 #include<stdio.h>
 int main(){
     int percentage;//declare varaible percentage to store the user's input percentage value.

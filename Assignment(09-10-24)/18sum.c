@@ -1,3 +1,4 @@
+//18. WACP to take user input of two numbers and print their sum using a third variable.
 #include<stdio.h>
 int main(){
     int num1,num2; //declare varaible num1 and num2 to store user's input value.

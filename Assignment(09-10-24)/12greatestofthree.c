@@ -1,3 +1,4 @@
+//12. WACP to find the greatest number among three user-input numbers.
 #include<stdio.h>
 int main(){
     int num1 , num2 , num3; //declare varaible num1 ,num2 and num3 to store user's input value.
