@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main(){
+    //Pattern 1
     for(int i=0 ; i<=2 ; i++){
         for(int j=0;j<=2;j++){
             printf("*");
@@ -8,7 +9,7 @@ int main(){
     }
 
     printf("\n\n");
-
+    //Pattern2
     for(int i=0 ; i<=2 ; i++){
         for(int j = 0 ; j <= i ; j++){
             printf("*");
@@ -17,7 +18,7 @@ int main(){
     }
 
     printf("\n\n");
-
+    //Pattern 3
     for(int i=0 ; i<=2 ; i++){
         for(int j=0 ; j<=2 ; j++){
             if(i == 1 && j == 1){
@@ -29,8 +30,8 @@ int main(){
         }
         printf("\n");
     }
-
     printf("\n\n");
+    //Pattern 4
 
     for(int i=0 ;i<=2 ; i++){
         for(int j=0 ; j<=2;j++){
