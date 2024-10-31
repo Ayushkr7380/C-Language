@@ -1,0 +1,1 @@
+//Design a program to find the smallest three-digit Armstrong number greater than a given number, using only bitwise operators.
