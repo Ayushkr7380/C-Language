@@ -15,6 +15,7 @@ int main(){
             
 
         }
+
         if(countedArr[i] == 0){
         printf("%d = %d\n",numArr[i],count);
         }
