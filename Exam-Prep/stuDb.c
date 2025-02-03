@@ -58,6 +58,7 @@ int main(){
     for(int i=0;i<numOfStu;i++){
         fprintf(ptr,"Roll - %d || Name - %s || City - %s \n",stu[i].roll,stu[i].name,stu[i].city);
     }
+    
     //Close the file
     fclose(ptr);
 
