@@ -25,7 +25,7 @@ int main() {
     printf("Enter a decimal number: ");
     scanf("%d", &num);
     
-    printf("Binary: ");
+    printf("Binary of %d is : ",num);
     decimalToBinary(num);
     
     return 0;
