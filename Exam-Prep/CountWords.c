@@ -23,6 +23,8 @@ int main(){
 
     int insideWord = 0;
 
+    //Logic for countWord
+
     for(int j=0;str[j]!='\0';j++){
         if(str[j] == ' '){
             countSpace++;
@@ -32,6 +34,7 @@ int main(){
             countWord++;
             insideWord = 1;
         }
+        
     }
     printf("Length of spaces between the sentence is %d\n",countSpace);
     printf("Length of charcter in the sentence is %d\n",(len - countSpace));
